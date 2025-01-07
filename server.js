@@ -12,3 +12,7 @@ const sub = (a, b) => {
 }
 
 console.log(sub(100, 20));
+
+const stash = () => {
+    console.log("This is staahed")
+}
